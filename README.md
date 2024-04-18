@@ -4,10 +4,10 @@
 - 👀 I’m interested in to become MERN Full STACK Developer
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me coddbusters@gmail.com
-- 😄 Pronouns: His/Him
+- 📫 Feel free to reach me at coddbusters@gmail.com
+  
 
-- Feel free to connect with me via coddbusters@gmail.com
+    
 
 <!---
 coddbuster/coddbuster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
